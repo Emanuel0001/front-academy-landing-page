@@ -14,10 +14,10 @@ Next. js é um framework React que permite a construção de sites e aplicaçõe
 
     HTML
     CSS
-    Netlify
+    Vercel
     javascript
     NextJs
     
 ## Link do projeto online 
 
-none
+https://front-academy-landing-page.vercel.app/
